@@ -7,7 +7,6 @@ import java.util.Map;
 public class Notebook {
 
     private String name;
-
     private int amountRAM;
     private String operatingSystem;
     private int price;
