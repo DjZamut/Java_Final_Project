@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class Notebook {
+public class NoteBook {
 
     private String name;
     private int amountRAM;
@@ -12,7 +12,7 @@ public class Notebook {
     private int price;
     private String model;
 
-    public Notebook(String name, int amountRAM, String operatingSystem, int price, String model) {
+    public NoteBook(String name, int amountRAM, String operatingSystem, int price, String model) {
         this.name = name;
         this.amountRAM = amountRAM;
         this.operatingSystem = operatingSystem;
